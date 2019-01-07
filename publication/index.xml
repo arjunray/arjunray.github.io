@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Arjun Ray</title>
+    <link>https://arjunray.github.io/publication/</link>
+    <description>Recent content in Publications on Arjun Ray</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://arjunray.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Specific cholesterol binding drives drastic structural alterations in Apolipoprotein A1</title>
+      <link>https://arjunray.github.io/publication/apolipoprotein/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://arjunray.github.io/publication/apolipoprotein/</guid>
+      <description>#More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Probing molecular forces in multi-component physiological membranes</title>
+      <link>https://arjunray.github.io/publication/molecular_forces/</link>
+      <pubDate>Tue, 27 Nov 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://arjunray.github.io/publication/molecular_forces/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Improved model quality assessment using ProQ2</title>
+      <link>https://arjunray.github.io/publication/proq2/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0530</pubDate>
+      
+      <guid>https://arjunray.github.io/publication/proq2/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>
